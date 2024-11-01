@@ -1,0 +1,17 @@
+/* twentyfifteen theme hack */
+/* twentysixteen theme hack */
+.CodeMirror pre.CodeMirror-line {
+  border: inherit;
+}
+
+/* twentyseventeen theme hack */
+.CodeMirror pre.CodeMirror-line {
+    background: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: inherit;
+    max-width: 100%;
+    overflow: inherit;
+    padding: inherit;
+}
